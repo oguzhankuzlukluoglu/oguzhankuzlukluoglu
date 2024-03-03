@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Golang,Java**
+- 💬 Ask me about **Golang , Java**
 
 - 📫 How to reach me **oguzhankuzlukluoglu@gmail.com**
 
