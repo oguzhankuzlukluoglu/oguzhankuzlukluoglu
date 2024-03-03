@@ -1,4 +1,4 @@
-[![MasterHead](https://novasta.com.tr/wp-content/uploads/go-programlama-dili-gopher-novasta.png)
+[![MasterHead](https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2020/10/golang-Programing.jpg)
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
