@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Backend with Golang**
 
 - 💬 Ask me about **Golang , Java**
 
