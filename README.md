@@ -4,8 +4,6 @@ how to reach me : oguzhankuzlukluoglu@gmail.com
 
 🔭 I’m currently working on Backend with Golang<br>🌱 I’m currently learning DDD,Microservices etc.<br>💬 Ask me about Backend technologies<br>
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oguzhankuzlukluoglu) 
 
 # 💻 Tech Stack:
