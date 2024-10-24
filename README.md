@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend technologies such as DDD,microservice architecture etc.**
 
-- 💬 Ask me about **Golang , Java**
+- 💬 Ask me about **Golang , Backend**
 
 - 📫 How to reach me **oguzhankuzlukluoglu@gmail.com**
 
