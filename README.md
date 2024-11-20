@@ -7,7 +7,7 @@ how to reach me : oguzhankuzlukluoglu@gmail.com
 
 
 
-  I’m currently working on Backend with Golang<br>  I’m currently learning DDD,Microservices etc.<br>  Ask me about Backend technologies<br>
+ I am working on Backend development with Golang and learning DDD, Microservices, and related Backend technologies.
 
  
 
