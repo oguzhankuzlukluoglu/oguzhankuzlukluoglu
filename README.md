@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 how to reach me : oguzhankuzlukluoglu@gmail.com 
 
 
