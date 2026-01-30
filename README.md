@@ -10,4 +10,4 @@ how to reach me : oguzhankuzlukluoglu@gmail.com
  I am working on Backend development with Golang & Java Spring Boot and learning related Backend technologies.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,spring,java,dotnet,ts,kubernetes,docker,rabbitmq,kafka,mongodb,redis,postgres,supabase,cassandra,linux,gitlab)](https://skillicons.dev)
